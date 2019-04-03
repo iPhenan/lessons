@@ -1,0 +1,19 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "description": "my lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iPhenan/lessons.git"
+  },
+  "author": "Denis Dotsenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iPhenan/lessons/issues"
+  },
+  "homepage": "https://github.com/iPhenan/lessons#readme"
+}
